@@ -76,7 +76,3 @@ To change default environment variables, you can create a `.env` file in the roo
 MYSQL_ROOT_PASSWORD=mysecretpassword
 MYSQL_DATABASE=mydatabase
 ```
-
----
-Don't forget to replace placeholders like `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY_NAME` with actual values.
-
